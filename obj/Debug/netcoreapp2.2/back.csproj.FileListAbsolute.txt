@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\felipe\dti\back\bin\Debug\netcoreapp2.2\back.deps.json
+C:\Users\Lenovo\Documents\felipe\dti\back\bin\Debug\netcoreapp2.2\back.runtimeconfig.json
+C:\Users\Lenovo\Documents\felipe\dti\back\bin\Debug\netcoreapp2.2\back.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\felipe\dti\back\bin\Debug\netcoreapp2.2\back.dll
+C:\Users\Lenovo\Documents\felipe\dti\back\bin\Debug\netcoreapp2.2\back.pdb
+C:\Users\Lenovo\Documents\felipe\dti\back\obj\Debug\netcoreapp2.2\back.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\felipe\dti\back\obj\Debug\netcoreapp2.2\back.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\felipe\dti\back\obj\Debug\netcoreapp2.2\back.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Documents\felipe\dti\back\obj\Debug\netcoreapp2.2\back.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Documents\felipe\dti\back\obj\Debug\netcoreapp2.2\back.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\felipe\dti\back\obj\Debug\netcoreapp2.2\back.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\felipe\dti\back\obj\Debug\netcoreapp2.2\back.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\Documents\felipe\dti\back\obj\Debug\netcoreapp2.2\back.dll
+C:\Users\Lenovo\Documents\felipe\dti\back\obj\Debug\netcoreapp2.2\back.pdb
